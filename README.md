@@ -25,17 +25,17 @@ Execute Django admin and create details for 10 books
 ## PROGRAM
 Models.py
 ```
+
 ```
 
 admin.py
 ```
 
+
 ```
 
 
 ## OUTPUT
-
-
 
 ![alt text](<Screenshot 2025-11-24 142011.png>)
 
